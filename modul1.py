@@ -32,13 +32,9 @@ print(2*(name+'\n'))
 
 print(' - ')
 
-[9: 17
-PM] Alex
-Timis(Guest)
+
 # printeaza un Triunghi si un Patrat
-​[9: 17
-PM] Alex
-Timis(Guest)
+
 
 print('Triunghi: ')
 print("   / \ ")
@@ -52,3 +48,6 @@ print("|_____|")
 
 
 
+
+rez=2*5
+print(rez)
